@@ -14,7 +14,7 @@ Hey👋, Built Spotify 2.0 web App using React, Vite, Redux Toolkit, Shazamcore 
 First Fork this repo & then Clone this repo
 
 ```bash
-  git clone https://github.com/<YOUR_USERNAME>/spotify-2.0-music-player
+  git clone https://github.com/<YOUR_USERNAME>/spotify-2.0-music-player.git
   cd spotify-2.0-music-player
 ```
 
